@@ -59,7 +59,7 @@
         <div class="icon-block">
           <h2 class="center black-text"><i class="material-icons">settings</i></h2>
           <h5 class="center">Easy to work with</h5>
-          <p class="light">We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to feedback and can answer any questions a user may have about NGSC Shoes.</p>
+          <p class="light">We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to feedback and can answer any questions a user may have about NGSC Shoess.</p>
         </div>
       </div>
     </div>
