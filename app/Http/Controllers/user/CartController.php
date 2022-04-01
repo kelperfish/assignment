@@ -53,7 +53,6 @@ class CartController extends Controller
     {
         $minus = cart::find($id);
         $checkQty = cart::select('cartQty')->where('id', $id)->first()->checkQty;
-        // $minus->update(['cartQty' => cart::raw('cartQty - 1')]);
 
         if ($checkQty == '0') {
             $minus->delete();
